@@ -1,0 +1,23 @@
+main{
+  width:80%;
+  margin: 0 auto;
+}
+img{
+  width:100%;
+  height:auto;
+}
+span{
+  font-size: 25px;
+  position: absolute;
+}
+.prev{
+  top:50vh;
+  left:100px;
+}
+.next{
+  top:50vh;
+  right:100px;
+}
+h1{
+  text-align: center;
+}

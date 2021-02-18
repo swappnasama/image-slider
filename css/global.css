@@ -9,6 +9,8 @@ img{
 span{
   font-size: 25px;
   position: absolute;
+  width: 50px;
+  height: 50px;
 }
 .prev{
   top:50vh;
@@ -16,7 +18,7 @@ span{
 }
 .next{
   top:50vh;
-  right:100px;
+  right:65px;
 }
 h1{
   text-align: center;
